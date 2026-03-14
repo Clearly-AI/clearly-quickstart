@@ -27,6 +27,14 @@ Evaluation criteria:
 * "so what" creativity (are they able to accomplish the mission)  
 * Points for using workflows, Clearly API, etc.
 
+## Onboarding
+1. Sign up here: https://nebfog.clearly-app.com/
+2. Create a questionnaire using this repo and upload in Settings
+3. Add any integrations & set up any workflows (hidden URL: https://nebfog.clearly-app.com/workflows)
+
+## Notes
+Because we are an enterprise product, you are all in the same enterprise org, so you will be able to see each other's questionnaires. Please operate on the honor system and don't look at other people's work!!
+
 
 ## What is Clearly AI?
 
