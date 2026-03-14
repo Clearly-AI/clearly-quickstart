@@ -37,6 +37,12 @@ Because we are an enterprise product, you are all in the same enterprise org:
 2. If you add integrations via Personal Access Token or Org-wide OAuth you WILL expose your data to everyone else on the platform
 3. Other people can see the source docs you upload to evaluate your questionnaire - don't throw anything sensitive in!
 
+## Prizes
+First place: 6 months of Claude Code Max! (And pick between a notebook & a Yeti)
+Second place: 1 month Claude Code Max (and a notebook)
+Third place: A notebook or a Yeti
+
+*Plus lots of stickers, bragging rights, chocolate, and fun!*
 
 # What is Clearly AI?
 
