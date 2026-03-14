@@ -1,3 +1,32 @@
+# Clearly AI <> NebFog 2026
+
+## Greetings!
+
+Hi Everyone we're Clearly AI \- we automate security assessments like threat modeling for security engineers at large enterprises. But what we're really building is an AI tool that can evaluate any source information to accomplish any security assessment task.
+
+## Challenge
+
+Our challenge today is to use Clearly AI to accomplish a new and creative goal, like creating the best AGENTS.md file for secure vibe coding, or a threat-driven pen testing plan you can feed straight into an AI pen test tool, or an AI secrets scanner.
+
+We're a great side quest while your agents are running \- it should take only 15-20 minutes to build out a workflow end to end. And we're giving away 6 months free Claude Code Max to the winner\! Come find us for access to the quickstart repo and platform to get started.
+
+Create a Clearly AI questionnaire to accomplish a creative mission\! 
+
+Example ideas:
+
+1. Use Clearly AI to generate a threat model / pen testing plan that an agent can follow  
+2. Use Clearly AI to create an AGENTS.md for secure vibe coding and auto published on my GH repo  
+3. Use Clearly AI to generate a secrets hunting agent using Clearly AI's secret scanner
+
+Evaluation criteria:
+
+* ambitiousness of mission
+* ability to accomplish mission  
+* quality of questionnaire design  
+* utilization of clearly AI system capabilities  
+* "so what" creativity (are they able to accomplish the mission)  
+* Points for using workflows, Clearly API, etc.
+
 
 ## What is Clearly AI?
 
