@@ -38,9 +38,9 @@ Because we are an enterprise product, you are all in the same enterprise org:
 3. Other people can see the source docs you upload to evaluate your questionnaire - don't throw anything sensitive in!
 
 ## Prizes
-First place: 6 months of Claude Code Max! (And pick between a notebook & a Yeti)
-Second place: 1 month Claude Code Max (and a notebook)
-Third place: A notebook or a Yeti
+* First place: 6 months of Claude Code Max! (And pick between a notebook & a Yeti)
+* Second place: 1 month Claude Code Max (and a notebook)
+* Third place: A notebook or a Yeti
 
 *Plus lots of stickers, bragging rights, chocolate, and fun!*
 
